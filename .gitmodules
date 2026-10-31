@@ -4,3 +4,6 @@
 [submodule "LAB5"]
 	path = LAB5
 	url = https://github.com/Anupriya174/L5_11_scholarship_screener.git
+[submodule "LAB6"]
+	path = LAB6
+	url = https://github.com/Anupriya174/L6_L7_11_amusement_park_ride_access.git
