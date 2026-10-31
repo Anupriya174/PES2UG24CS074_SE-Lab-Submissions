@@ -1,76 +1,30 @@
-\# Software Engineering Lab Submissions
+# Software Engineering Lab Submissions
 
+**Name:** Anupriya  
+**SRN:** PES2UG24CS074  
+**Course:** Software Engineering Lab  
+**Semester:** 5  
 
+This repository contains my Software Engineering Lab submissions (Lab 1 through Lab 6) for PES University.
 
-\*\*Name:\*\* Anupriya   
+---
 
-\*\*SRN:\*\* PES2UG24CS074  
+## Repository Structure
 
-\*\*Course:\*\* Software Engineering Lab  
+| Lab | Submission Folder / Submodule | Type |
+| :--- | :--- | :--- |
+| **Lab 1** | `SE_LAB_01` | Folder |
+| **Lab 2** | `SE_LAB_02` | Folder |
+| **Lab 3** | `SE_LAB_03` | Folder |
+| **Lab 4** | `11_maze_chase` | Git Submodule |
+| **Lab 5** | `scholarship_screener` | Git Submodule |
+| **Lab 6** | `amusement_park_ride_access` | Git Submodule |
 
-\*\*Semester:\*\* 5
+---
 
+## Cloning the Repository
 
-
-This repository contains my Software Engineering Lab submissions (Lab 1–Lab 6).
-
-
-
-\## Repository Structure
-
-
-
-| Lab | Submission | Type |
-
-|---|---|---|
-
-| Lab 1 | SE\_LAB\_01 | Folder |
-
-| Lab 2 | SE\_LAB\_02 | Folder |
-
-| Lab 3 | SE\_LAB\_03 | Folder |
-
-| Lab 4 | 11\_maze\_chase | Git Submodule |
-
-| Lab 5 | scholarship\_screener | Git Submodule |
-
-| Lab 6 | amusement\_park\_ride\_access | Git Submodule |
-
-
-
-\## Cloning the Repository
-
-
-
-Clone the repository along with all its submodules:
-
-
+Because this repository contains Git submodules for Labs 4, 5, and 6, use the following command to clone it along with all submodules:
 
 ```bash
-
-git clone --recurse-submodules https://github.com/Anupriya174/PES2UG24CS074\_SE-Lab-Submissions.git
-
-```
-
-
-
-If you have already cloned the repository without submodules:
-
-
-
-```bash
-
-git submodule update --init --recursive
-
-```
-
-
-
-\## GitHub
-
-
-
-\*\*Main Repository:\*\*  
-
-https://github.com/Anupriya174/PES2UG24CS074\_SE-Lab-Submissions
-
+git clone --recurse-submodules [https://github.com/Anupriya174/PES2UG24CS074_SE-Lab-Submissions.git](https://github.com/Anupriya174/PES2UG24CS074_SE-Lab-Submissions.git)
